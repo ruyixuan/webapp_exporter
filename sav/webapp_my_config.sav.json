@@ -1,0 +1,27 @@
+[
+  {
+    "tenant_id": "03258f72-ee37-4bbb-b38d-6efdfc96cde6",
+    "client_id": "c7172bf6-41d5-415d-bf1e-8dfc79b38663",
+    "client_secret": "Sf--R~0WK.f6764~vrPJ4B~S-6zxu6Squ3",
+    "subscription_id": "f5a4a74a-a0e1-49e4-bf09-13609f38b674",
+    "resource_group_name": "az006aboitcdlpoc538538",
+    "web_app_names": ["webgpt01cnlp006","webgpt02cnlp006","webgpt03cnlp006"]
+  },
+  {
+    "tenant_id": "03258f72-ee37-4bbb-b38d-6efdfc96cde6",
+    "client_id": "c7172bf6-41d5-415d-bf1e-8dfc79b38663",
+    "client_secret": "Sf--R~0WK.f6764~vrPJ4B~S-6zxu6Squ3",
+    "subscription_id": "f5a4a74a-a0e1-49e4-bf09-13609f38b674",
+    "resource_group_name": "az19909cnlabembctt",
+    "web_app_names": ["webctt01cnlab19909","webctt02cnlab19909"]
+  },
+  {
+    "tenant_id": "03258f72-ee37-4bbb-b38d-6efdfc96cde6",
+    "client_id": "c7172bf6-41d5-415d-bf1e-8dfc79b38663",
+    "client_secret": "Sf--R~0WK.f6764~vrPJ4B~S-6zxu6Squ3",
+    "subscription_id": "f5a4a74a-a0e1-49e4-bf09-13609f38b674",
+    "resource_group_name": "az006cnscctlp",
+    "web_app_names": ["webscct01cnlp006"]
+  }
+]
+
